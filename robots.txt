@@ -1,0 +1,5 @@
+
+Sitemap: https://markup99.github.io/zola_example/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://markup99.github.io/zola_example
