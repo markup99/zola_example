@@ -14,4 +14,4 @@ toc = true
 ![Image](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
 texte *Italic*
-*j'ai hâte des vacances*
+*j'ai hâte des vacances
