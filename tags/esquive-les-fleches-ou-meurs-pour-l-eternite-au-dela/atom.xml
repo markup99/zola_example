@@ -24,10 +24,16 @@
         <id>https://markup99.github.io/zola_example/mortellerandonnee/</id>
         
         <content type="html" xml:base="https://markup99.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;texte &lt;em&gt;Italic&lt;&#x2F;em&gt;
-&lt;em&gt;j&#x27;ai hâte des vacances&lt;&#x2F;em&gt;
-##il y a un QCM cet aprèm
-| :--------------- |:---------------:| -----:|&lt;&#x2F;p&gt;
+&lt;p&gt;texte &lt;em&gt;Italic&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;j&#x27;ai hâte des vacances&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;##il y a un QCM cet aprèm&lt;&#x2F;p&gt;
+&lt;p&gt;| :--------------- |:---------------:| -----:|&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;s
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
 </content>
         
     </entry>
