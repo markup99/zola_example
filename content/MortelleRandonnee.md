@@ -16,3 +16,4 @@ toc = true
 texte *Italic*
 *j'ai hâte des vacances*
 ##il y a un QCM cet aprèm
+| :--------------- |:---------------:| -----:|
