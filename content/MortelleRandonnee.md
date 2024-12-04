@@ -17,7 +17,7 @@ texte *Italic*
 
 *j'ai hâte des vacances*
 
-##il y a un QCM cet aprèm
+## il y a un QCM cet aprèm
 
 
 | Aligné à gauche  |   ce texte        |  Aligné à droite |
