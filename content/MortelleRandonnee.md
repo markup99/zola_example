@@ -19,8 +19,7 @@ texte *Italic*
 
 ##il y a un QCM cet aprèm
 
-| :--------------- |:---------------:| -----:|
->s
+
 | Aligné à gauche  |   ce texte        |  Aligné à droite |
 | :--------------- |:---------------:| -----:|
 | Aligné à gauche  | est             |   Aligné à droite |
