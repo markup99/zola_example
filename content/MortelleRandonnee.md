@@ -14,6 +14,13 @@ toc = true
 ![Image](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
 texte *Italic*
+
 *j'ai hâte des vacances*
+
 ##il y a un QCM cet aprèm
+
 | :--------------- |:---------------:| -----:|
+>s
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
