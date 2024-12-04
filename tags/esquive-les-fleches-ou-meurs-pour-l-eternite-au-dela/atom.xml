@@ -31,6 +31,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;s
 | Aligné à gauche  |   ce texte        |  Aligné à droite |
+| :--------------- |:---------------:| -----:|
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
